@@ -1,0 +1,8 @@
+E:\Szymon\c#\Zapamietywanie_gra\Zapamietywanie_gra\bin\Debug\Zapamietywanie_gra.exe
+E:\Szymon\c#\Zapamietywanie_gra\Zapamietywanie_gra\bin\Debug\Zapamietywanie_gra.pdb
+E:\Szymon\c#\Zapamietywanie_gra\Zapamietywanie_gra\obj\Debug\ResolveAssemblyReference.cache
+E:\Szymon\c#\Zapamietywanie_gra\Zapamietywanie_gra\obj\Debug\Zapamietywanie_gra.Form1.resources
+E:\Szymon\c#\Zapamietywanie_gra\Zapamietywanie_gra\obj\Debug\Zapamietywanie_gra.Properties.Resources.resources
+E:\Szymon\c#\Zapamietywanie_gra\Zapamietywanie_gra\obj\Debug\Zapamietywanie_gra.csproj.GenerateResource.Cache
+E:\Szymon\c#\Zapamietywanie_gra\Zapamietywanie_gra\obj\Debug\Zapamietywanie_gra.exe
+E:\Szymon\c#\Zapamietywanie_gra\Zapamietywanie_gra\obj\Debug\Zapamietywanie_gra.pdb
